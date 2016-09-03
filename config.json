@@ -1,0 +1,13 @@
+{
+	"pushbullet": {
+		"api_key": "your_pushbullet_api_key",
+		"devices": "your_pushbullet_device_id"
+	},
+	"targets": [
+		{
+			"host": "store.steampowered.com",
+			"path": "/",
+			"focus": "#tab_topsellers_content .tab_item:first .tab_item_name",
+		}
+	]
+}

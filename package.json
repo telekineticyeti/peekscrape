@@ -1,0 +1,31 @@
+{
+  "name": "peekscrape",
+  "version": "0.1.0",
+  "description": "Automation: Scrape a webpage and target a specific element for changes. Alerts are sent via pusbhullet.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrape, alert"
+  ],
+  "author": "Telekineticyeti",
+  "license": "ISC",
+  "dependencies": {
+    "htmlparser": "^1.7.7",
+    "jsdom": "^9.4.5",
+    "moment": "^2.14.1",
+    "pushbullet": "^1.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telekineticyeti/peekscrape.git"
+  },
+  "bugs": {
+    "url": "https://github.com/telekineticyeti/peekscrape/issues"
+  },
+  "homepage": "https://github.com/telekineticyeti/peekscrape#readme"
+}
