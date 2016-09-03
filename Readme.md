@@ -10,7 +10,7 @@ I'm not interested in the entirety of the page content, so I use a combination o
 
 The scraped element is stored in [config.json](https://github.com/telekineticyeti/peekscrape/blob/master/config.json) and used as a comparison reference when the script is next executed.
 
-## Configration / Example
+## Configuration / Example
 
 You can define the sites to watch in the [config.json](https://github.com/telekineticyeti/peekscrape/blob/master/config.json) file, under the 'targets' tree. Multiple sites can be configured; For each target, a host, path and focus must be specified. If the site is SSL, then 'method'L "https" must also be specified.
 
