@@ -7,7 +7,7 @@
 		{
 			"host": "store.steampowered.com",
 			"path": "/",
-			"focus": "#tab_topsellers_content .tab_item:first .tab_item_name",
+			"focus": "#tab_topsellers_content .tab_item:first .tab_item_name"
 		}
 	]
 }
